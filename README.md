@@ -17,8 +17,8 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **MERN Stack Projects**
-- 🌱 I’m currently learning **Next.js, Prisma, GraphQL**
+- 🔭 I’m currently working on **Production-Grade app with MERN Stack Projects**
+<!-- - 🌱 I’m currently learning **Next.js, Prisma, GraphQL** -->
 - 👨‍💻 Explore my projects at [github.com/Krish-vadsak45](https://github.com/Krish-vadsak45)
 - 💬 Ask me about **React, Node.js, Express, MongoDB, JavaScript, TypeScript**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/krish-vadsak-a5bab427b/)**
